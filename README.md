@@ -11,7 +11,7 @@ Langkah-langkah sebelum membuat migration:
     1) npx express-generator --no-view (Jika tidak ingin menggunakan view)
     2) npm i 
     3) npm i nodemon
-    4) npm doteenv --save
+    4) npm dotenv --save
     5) npm i --save sequelize sequelize-cli
     6) npx sequelize init (Berfungsi untuk memunculkan folder default dari sequelize)
     7) npm i mysql2 --save
